@@ -9,7 +9,7 @@ import os
 music = Music()
 
 sloth = Sloth([1,2,3,4])
-sloth.set_offset([0,0,0,0])
+sloth.set_offset([-15,10,0,0])
 
 
 def main():
